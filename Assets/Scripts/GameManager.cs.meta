@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6fa7b6bd4e70ab7428a58a2b132965f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MainCamera: {instanceID: 0}
+  - MainGrid: {instanceID: 0}
+  - Protagonist: {instanceID: 0}
+  - Outline: {instanceID: 0}
+  - Standart: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

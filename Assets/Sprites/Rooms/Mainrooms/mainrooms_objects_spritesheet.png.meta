@@ -1,0 +1,1389 @@
+fileFormatVersion: 2
+guid: b2ae7d0675754b1479e3c9bca9ddef0f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bed2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a594c3bd02efc48a21115c00eb227e
+      internalID: -1998944036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 207
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bac7aea6199f547a3d23658095b467
+      internalID: -1639960695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_table_with_book
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 223
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da6638b9ce5e2542b972d07cd8b857b
+      internalID: -541395687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden_chair
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 223
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b4fef7100e4dc4ca7ed8feb5135a34
+      internalID: -222156328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_pillow
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 224
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f757d26711c8fa4488eab5221e01618
+      internalID: 537286155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pillow
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 240
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d26b20614ac3540ad7c9d035082af5
+      internalID: -664066933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_pillow
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 224
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ae72375297e654a969d200aafba238
+      internalID: -1745002279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pillow_pile
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 228
+        width: 29
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475d88678660373448b917c38a43883d
+      internalID: 1235486480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: open_book
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 223
+        width: 13
+        height: 27
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a45400d5247eed44942d3145138616d
+      internalID: 1679258446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 223
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b126580eb84ea8a4fa1ac29635c18d96
+      internalID: -1623399364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2965df72e35e6f4db288be2e63151f6
+      internalID: -1713500502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: books3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 223
+        width: 13
+        height: 20
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf3eaeeb9f0df84c91184be0e9327d8
+      internalID: -131788755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lamp
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 223
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bf4c1f4866cf2428dbfb9a20aee6a5
+      internalID: -2002224483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: large_tea
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 207
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f5ee5c9ffd66b419562045e216821d
+      internalID: -1385614054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_tea
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 207
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5d1e9bc75257040b1633b0c82a008b
+      internalID: 1008888304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tea
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 207
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f53fb24158651542b3d582e8a4bec46
+      internalID: 1788501086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_tea
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936eb1b245a533d4c96160b4eb7f9845
+      internalID: -1057393453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabinet
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 34
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafa69841ccbc164e91086d1f60a80bf
+      internalID: 584418474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookshelf
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 159
+        width: 50
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189fc0529f24ffd4c964cea58103a013
+      internalID: 256176000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 159
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35e9c2e6c4d4b5498c69c6421cffc51
+      internalID: 227146205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565e81e9166d55146a2126e2159fd376
+      internalID: -415311489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_wardrobe
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52b170619e7b3845a038f197a4cc421
+      internalID: -496423235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toilet_table
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 111
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.4848485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d07b755d1027b941b482ea4d955ba83
+      internalID: 24642964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_table
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7e69ffc76531a4ea9ce02ae4dabd8a
+      internalID: -913959851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_window
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 111
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4255ab84bf511942a7cd8f42e1c256e
+      internalID: -564665929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pink_window
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 111
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c20f54289906bf47810f8900e32f210
+      internalID: 33105686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dishes
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 111
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9568558bebfa4942b3d4e1af2887312
+      internalID: -666388742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jug_full
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 129
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb0d3561c44d3341940c101b70442d0
+      internalID: -70091513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full_cup
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84213854e533fd4c98f04e87362abf2
+      internalID: -858632352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 13
+        height: 14
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc0565db9aeea446b1d710c0345f512
+      internalID: 1411923193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vase
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 81
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d91b6ab06fc824db2fd9122ef974bd
+      internalID: 353657848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glass_cup
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb360520d063eb4e853f1229385ce26
+      internalID: 1674096982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_picture
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 79
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10091375dcdedc349a32642ec9440f15
+      internalID: 2092663241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze_clock
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 79
+        width: 19
+        height: 20
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2acd054968e2e45b6fcc7689a489cb
+      internalID: 562524271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tulips
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 79
+        width: 16
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b78fa390e7f05429ac6dc2ae5561ee
+      internalID: -54424759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionmaws
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 79
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea609d6195c1504438f18d17bba466bf
+      internalID: -2121739013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medium_table
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 47
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37d1cda9af88b2418d77f51684c614c
+      internalID: -1376744602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_picture
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ec8111e4d94844faa744a656c875cb
+      internalID: 1910946165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_picture
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 47
+        width: 36
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8e803ca1d655945b3f6dca19c94c7b
+      internalID: -211519032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaming_table
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 3
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafc71f0dcac3064d8ecc08740bdfa97
+      internalID: -800645132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gaming_pc
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fc37c6343589f499a0ce17cdd0918d
+      internalID: -1935843366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coral_flowers
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 30
+        height: 23
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75830a20c0caf8d4790977c657fec664
+      internalID: -1031715383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onions
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 33
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70180655a8c7baa4abaaab698b402f66
+      internalID: -1915990333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrots
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596167b779784eb4b8bdbee0c06f01a6
+      internalID: 270828301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: onions_double_deck
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2369b5bcc8b351e4eb79c87990513470
+      internalID: -1737212103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picture_right
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.48, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac83d3af47ea2d74682e27b4a605f24b
+      internalID: -1229243726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picture_middle
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.48, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ea1b0c48b253749a9d9f1eddaa307a
+      internalID: 618807889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picture_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.48, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7bda74c7cb00e439cd7d9481fab443
+      internalID: -1166387050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beige_carpet
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 82
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4918033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155fee5d45bc64246a0bb98414eef440
+      internalID: 478497590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_carpet
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 79
+        width: 112
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49367088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3be97c5543cb014eadcf320bbfc617d
+      internalID: -812443622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabinet_tea
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 159
+        width: 34
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308588bdc9470c0428c62f2c07cb7182
+      internalID: -1496230103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_carpet
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 159
+        width: 80
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4c9d5a32198b84bb0f709350440fce
+      internalID: -524681548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wardrobe
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 159
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c1679511394a6499b7c8856c9925f0
+      internalID: -1961874121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jug_empty
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 127
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb8509ede86dc84bbe6e482389f7def
+      internalID: 1730234346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jug1_empty
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae93d32701bb4054f98ba413a58f5ace
+      internalID: 396601611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jug1_full
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 111
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd249c6ad5812af45ae2f22df961b123
+      internalID: -19508632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainrooms_objects_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 53
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b0dd32a60637747a51ba857e458e5f
+      internalID: -1155341924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gaming_table: -800645132
+      picture_middle: 618807889
+      yellow_pillow: -1745002279
+      red_carpet: -524681548
+      lamp: -2002224483
+      jug1_empty: 396601611
+      cabinet_tea: -1496230103
+      jug1_full: -19508632
+      bed0: -1639960695
+      flower_picture: 2092663241
+      mainrooms_objects_spritesheet_27: -927573321
+      little_table_with_book: -541395687
+      pillow_pile: 1235486480
+      forest_picture: -211519032
+      beige_carpet: 478497590
+      pumpkin_picture: 1910946165
+      green_tea: -1057393453
+      blue_window: -564665929
+      lionmaws: -2121739013
+      bookshelf: 256176000
+      books2: -1713500502
+      gaming_pc: -1935843366
+      dishes: -666388742
+      bed3: 227146205
+      bed1: -415311489
+      medium_table: -1376744602
+      onions: -1915990333
+      books1: -1623399364
+      red_tea: 1788501086
+      full_cup: -858632352
+      mainrooms_objects_spritesheet_0: -1155341924
+      blue_tea: 1008888304
+      orange_carpet: -812443622
+      picture_left: -1166387050
+      toilet_table: 24642964
+      small_table: -913959851
+      pink_window: 33105686
+      glass_cup: 1674096982
+      wooden_chair: -222156328
+      wardrobe: -1961874121
+      jug_full: -70091513
+      carrots: 270828301
+      coral_flowers: -1031715383
+      bronze_clock: 562524271
+      red_pillow: -664066933
+      picture_right: -1229243726
+      bed2: -1998944036
+      jug_empty: 1730234346
+      orange_pillow: 537286155
+      vase: 353657848
+      candle: 1411923193
+      cabinet: 584418474
+      onions_double_deck: -1737212103
+      open_book: 1679258446
+      books3: -131788755
+      small_wardrobe: -496423235
+      large_tea: -1385614054
+      tulips: -54424759
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

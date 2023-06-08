@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Objects
+  - Player
+  - SpectralEnemyProjectile
+  - EnemyProjectile
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FloorObject
+    uniqueID: 2075611557
+    locked: 0
+  - name: Objects
+    uniqueID: 515812765
+    locked: 0
+  - name: CeilingObject
+    uniqueID: 104719449
+    locked: 0
+  - name: CurtainsOfUnseen
+    uniqueID: 1582284131
+    locked: 0
+  - name: Doors
+    uniqueID: 1239131971
+    locked: 0
+  - name: UI
+    uniqueID: 4010081441
+    locked: 0
